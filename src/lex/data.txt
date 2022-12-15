@@ -1,0 +1,20 @@
+(* Comment Test *)
+define Start (var t : integer; s : real)
+	constants
+	pi=3.141
+	String = "Test"
+	Char = 'T'
+	Bool = true
+	variables
+	a,b,c : integer
+	begin
+		if Bool = true
+			begin
+			String := "Test" + 'R'
+			end
+	end
+	
+(*Second function test*)
+define Tester()
+	begin
+	end
